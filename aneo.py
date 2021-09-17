@@ -118,8 +118,6 @@ toencode = ("33C05068"
 "d83b77ff"
 "d6909090")
 
-#fino a qui sembra scriverlo correttamente 
-
 print ("YESSES, I LL DO IT ASCII ONLY!")
 
 if len(toencode)%4 != 0:
